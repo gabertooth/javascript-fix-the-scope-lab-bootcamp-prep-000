@@ -8,6 +8,8 @@ function yourAnimal() {
   return animal
 }
 
+youranimal()
+
 function add2(n) {
   return n + two
 
